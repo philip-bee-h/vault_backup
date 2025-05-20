@@ -1,0 +1,47 @@
+{
+  "recentFiles": [
+    {
+      "basename": "puppet-code-deployment",
+      "path": "00_inbox/puppet-code-deployment.md"
+    },
+    {
+      "basename": "delete-corrupt-win-profile-and-rebuilding-profile",
+      "path": "02_resources/operating-systems/windows/delete-corrupt-win-profile-and-rebuilding-profile.md"
+    },
+    {
+      "basename": "word-can-not-open-existing-file-error",
+      "path": "02_resources/operating-systems/windows/word-can-not-open-existing-file-error.md"
+    },
+    {
+      "basename": "2024-05-14",
+      "path": "01_work/daily-notes/2024/2024/2024-05-14.md"
+    },
+    {
+      "basename": "systems-analyst-research-service",
+      "path": "03_selfdev/2024-resume/systems-analyst-research-service.md"
+    },
+    {
+      "basename": "00-scratch-pad",
+      "path": "00_workbench/00-scratch-pad.md"
+    },
+    {
+      "basename": "law-transition-notes",
+      "path": "00_workbench/law-transition-notes.md"
+    },
+    {
+      "basename": "du-command",
+      "path": "02_resources/operating-systems/unix-commands/du-command.md"
+    },
+    {
+      "basename": "wk-todo",
+      "path": "01_work/wk-todo.md"
+    },
+    {
+      "basename": "01-tickets-toc",
+      "path": "00_workbench/01-tickets-toc.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

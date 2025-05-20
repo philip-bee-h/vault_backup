@@ -1,0 +1,66 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1738300869477,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1738300821909,
+          "path": "003_resources/systems/linux/ubuntu-ssh-runbook.md",
+          "title": "ubuntu-ssh-runbook"
+        }
+      ],
+      "title": "work-runbooks"
+    },
+    {
+      "type": "group",
+      "ctime": 1738338075621,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1740492010686,
+          "path": "002_areas/operations/storage/zfs-command-reference-guide.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1743171525273,
+          "path": "002_areas/operations/networking/uiowa-ssh-quick-reference.md"
+        }
+      ],
+      "title": "tool-commands"
+    },
+    {
+      "type": "group",
+      "ctime": 1740030936007,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1740030953656,
+          "path": "002_areas/operations/hpc/hpc-nodes-troubleshooting-reference-guide.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1740030965423,
+          "path": "002_areas/operations/hpc/dead-node-investigating-process.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1740152448057,
+          "path": "002_areas/operations/storage/zfs-process-log-commands.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1740491931525,
+          "path": "002_areas/operations/hpc/impi-troubleshooting-commands.md"
+        },
+        {
+          "type": "file",
+          "ctime": 1741857041539,
+          "path": "002_areas/operations/hpc/argon-nodes-troubleshooting-and-management.md"
+        }
+      ],
+      "title": "troubleshooting"
+    }
+  ]
+}

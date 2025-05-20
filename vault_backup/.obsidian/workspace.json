@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "d7cd181ed71c2c7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "47a46a2f1ac43915",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28e904e500e87bd2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002_areas/homelab/hl_guides/ubuntu-server-pve-vm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ubuntu-server-pve-vm"
+            }
+          },
+          {
+            "id": "ef7be44d6246d0da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000_workbench/00-homelab.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "00-homelab"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f96c866837ed6cae",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1cb61bb4fc67a92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30bca64a10362382",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8b8141baeb5725fa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0304d3a2d477ee73",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d539d4fbc2b547c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "11668decf45fab08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0080569441235bc0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1fd59baad77f7e0f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "ed47f1bf6c9f918e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "226132925f5aa328",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ef7be44d6246d0da",
+  "lastOpenFiles": [
+    "002_areas/homelab/hl_guides/ubuntu-server-pve-vm.md",
+    "002_areas/homelab/hl_guides/Untitled.md",
+    "002_areas/development/kodekloud/networking-basics-kodekloud.md",
+    "003_resources/configurations/dotfiles/tmux-status-bars-config.md",
+    "003_resources/tools/zfs/zfs-list-command-reference.md",
+    "003_resources/tools/tmux/tmux-status-bars-config.md",
+    "003_resources/configurations/dotfiles/aerospace-config-notes.md",
+    "001_projects/personal-projects/hpc-homelab/homelab-hpc-cluster-setup.md",
+    "001_projects/personal-projects/hpc-homelab/hpc-homelab-ansible=playbooks.md",
+    "001_projects/personal-projects/hpc-homelab",
+    "Untitled.md",
+    "000_inbox/ansible-for-devops-notes.md",
+    "003_resources/tools/ansible/ansible-best-practices.md",
+    "003_resources/tools/ansible/running-ansible-commands.md",
+    "003_resources/tools/ansible/ansible-to-do-list.md",
+    "003_resources/tools/ansible/ansible-dir-best-practice.md",
+    "002_areas/homelab/hl_network/hl-ssh-key-gen-setup.md",
+    "003_resources/tools/ansible",
+    "000_inbox/bare-metal-prov.md",
+    "002_areas/operations/storage/zfs-monitoring-malony-scripts-for-prom.md",
+    "002_areas/homelab/hl_configs/homelab-naming-scheme.md",
+    "002_areas/homelab/homelab-gear-links.md",
+    "002_areas/homelab/homelab-resource-links.md",
+    "002_areas/homelab/homelab-selfhosted-apps.md",
+    "002_areas/homelab/homelab-thoughts.md",
+    "003_resources/tools/lima_vm_mac/lima-info-commands.md",
+    "003_resources/tools/lima_vm_mac",
+    "002_areas/team/000-doosoo.md",
+    "000_inbox/computer-names-homelab.md",
+    "003_resources/networking",
+    "001_projects/personal-projects/storyline-media",
+    "002_areas/development/k8s-the-hard-way",
+    "999_attachments/CleanShot 2025-04-22 at 21.40.18@2x.png",
+    "999_attachments/CleanShot 2025-04-22 at 21.39.13@2x.png",
+    "001_projects/work-projects/argon-home-retention-policy",
+    "999_attachments/CleanShot 2025-03-11 at 08.46.28.png",
+    "999_attachments/CleanShot 2025-03-11 at 08.46.06.png",
+    "999_attachments/CleanShot 2025-03-11 at 08.44.55.png",
+    "999_attachments/CleanShot 2025-03-11 at 08.15.03.png",
+    "999_attachments/CleanShot 2025-03-11 at 08.14.11.png",
+    "999_attachments/CleanShot 2025-03-06 at 22.28.20.png",
+    "999_attachments/CleanShot 2025-03-06 at 22.18.31.png",
+    "999_attachments/CleanShot 2025-03-06 at 22.14.27.png",
+    "002_areas/development/accomplishment-logs",
+    "00-lci-coference",
+    "003_resources/tools/zfs"
+  ]
+}

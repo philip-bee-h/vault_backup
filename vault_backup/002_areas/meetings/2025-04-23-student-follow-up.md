@@ -1,0 +1,12 @@
+
+- need to fill in the times
+- Semester end
+- summer coming we don't have any work
+- can i give you some feed back for your next job and career
+- final feed back - some truth
+- refer to if needed
+	- https://hr.uiowa.edu/support/employee-and-labor-relations/work-rules
+- goes well an receptive, Heidi can sit down and discuss other ITS Jobs
+	- be happy to help you look at  
+- document it really well
+- 
